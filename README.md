@@ -1,2 +1,2 @@
-# FrontEnd
-FrontEnd development projects
+# JavaScript
+JavaScript
